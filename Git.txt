@@ -1,0 +1,8 @@
+Agenda: 
+
+- Version Control
+- Basic of git
+- GitHub
+- Demo
+- How to do opensource contribution
+- Hactoberfest
